@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Alice",
+      "title": "React MVC Pattern",
+      "text": "How can I manage the components?",
+      "date": "2023-09-10"
+    },
+    {
+      "id": 2,
+      "user": "Bob",
+      "title": "AngularJS Directives Best Practices",
+      "text": "What are some best practices for managing directives in AngularJS?",
+      "date": "2023-11-05"
+    },
+    {
+      "id": 3,
+      "user": "Claire",
+      "title": "Vue.js State Management",
+      "text": "I'm having trouble managing state in my Vue.js application. Can anyone suggest a good approach or library to handle state effectively?",
+      "date": "2023-12-20"
+    },
+    {
+      "id": 4,
+      "user": "David",
+      "title": "Ember.js Component Structure",
+      "text": "Does anyone have tips for structuring Ember.js components in a large application? ",
+      "date": "2024-02-08"
+    },
+    {
+      "id": 5,
+      "user": "David",
+      "title": "Axios Problems",
+      "text": "Is there any problem with API ",
+      "date": "2024-02-09"
+    },
+    {
+      "id": 6,
+      "user": "Alice",
+      "title": "CSS",
+      "text": "Flexbox styles are not supported",
+      "date": "2023-05-10"
+    },
+    {
+      "id": 7,
+      "user": "Alice",
+      "title": "HTML",
+      "text": "Selected problems  and solutions using HTML5.",
+      "date": "2023-12-10"
+    },
+    {
+      "id": "5eaddfb5-20a0-4745-a0f9-4bc801b3ec24",
+      "user": "David",
+      "title": "How can I fix nnnn",
+      "text": "blaaa"
+    },
+    {
+      "id": "f9322cfd-fb7d-47f4-afba-93df3375fb37",
+      "user": "David",
+      "title": "How can I fix ddkdd';sf",
+      "text": "djsfldslfjnsfdsj"
+    }
+  ]
+}
